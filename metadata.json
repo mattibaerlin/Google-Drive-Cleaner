@@ -1,0 +1,6 @@
+{
+  "name": "Google Drive Bereinigung",
+  "description": "Google Drive Speicherplatz bereinigen, Papierkorb leeren und Dateien auf Deutsch verwalten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
